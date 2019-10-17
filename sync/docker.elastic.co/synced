@@ -958,3 +958,4 @@ docker.elastic.co/logstash/logstash:6.7.0
 docker.elastic.co/logstash/logstash:6.7.1
 docker.elastic.co/logstash/logstash:6.7.2
 docker.elastic.co/logstash/logstash:6.8.0
+docker.elastic.co/logstash/logstash:6.8.1
