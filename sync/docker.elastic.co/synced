@@ -544,3 +544,4 @@ docker.elastic.co/beats/filebeat-oss:7.1.1
 docker.elastic.co/beats/filebeat-oss:7.2.0
 docker.elastic.co/beats/filebeat-oss:7.2.1
 docker.elastic.co/beats/filebeat-oss:7.3.0
+docker.elastic.co/beats/filebeat-oss:7.3.1
