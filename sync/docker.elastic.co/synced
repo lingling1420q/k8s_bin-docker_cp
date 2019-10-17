@@ -882,3 +882,4 @@ docker.elastic.co/beats/packetbeat-oss:6.5.3
 docker.elastic.co/beats/packetbeat-oss:6.5.4
 docker.elastic.co/beats/packetbeat-oss:6.6.0
 docker.elastic.co/beats/packetbeat-oss:6.6.1
+docker.elastic.co/beats/packetbeat-oss:6.6.2
