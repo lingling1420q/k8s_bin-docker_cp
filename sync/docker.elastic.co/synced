@@ -361,3 +361,4 @@ docker.elastic.co/beats/auditbeat:6.3.2
 docker.elastic.co/beats/auditbeat:6.2.4
 docker.elastic.co/beats/auditbeat:6.1.4
 docker.elastic.co/beats/auditbeat:6.0.1
+docker.elastic.co/beats/filebeat:7.4.0
